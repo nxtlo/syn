@@ -1,0 +1,4 @@
+__pycache__
+.venv/
+_project/out/
+.vscode/
